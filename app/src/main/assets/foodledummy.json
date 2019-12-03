@@ -1,0 +1,107 @@
+[
+  {
+    "id":"c71549ee-70be-4a73-84dd-7068ec6c62df",
+    "name": "Applesauce Pancakes",
+    "ingredients": [
+      "2 cups dry pancake mix",
+      "1 teaspoon ground cinnamon",
+      "2 eggs",
+      "1 cup applesauce",
+      "1 teaspoon lemon juice",
+      "1/2 cup milk"
+    ],
+    "directions":[
+      "1.\tIn a large bowl, stir together pancake mix and cinnamon. Make a well in the center of the pancake mix. Add the eggs, applesauce, lemon juice and milk; stir until smooth.",
+      "2.\tHeat a lightly oiled griddle or frying pan over medium high heat. Pour or scoop the batter onto the griddle, using approximately 1/4 cup for each pancake. Brown on both sides and serve hot."],
+    "recipieimage": "https://image.ibb.co/hJNJrb/applesaucepancakes.jpg",
+    "searchtype": "apple",
+    "typefood" : "breakfast",
+    "agegroup" : "kids"
+  },
+  {
+    "id":"3a74bf88-e036-4647-9a02-a640904a2231",
+    "name": "Apple Butter",
+    "ingredients": [
+      "5 1/2 pounds apples - peeled, cored and finely chopped",
+      "4 cups white sugar",
+      "2 teaspoons ground cinnamon",
+      "1/4 teaspoon ground cloves",
+      "1/4 teaspoon salt"
+    ],
+    "directions":["1. Place the apples in a slow cooker. In a medium bowl, mix the sugar, cinnamon, cloves and salt. Pour the mixture over the apples in the slow cooker and mix well.",
+      "2.\tCover and cook on high 1 hour.",
+      "3. Reduce heat to low and cook 9 to 11 hours, stirring occasionally, until the mixture is thickened and dark brown.",
+      "-4. Uncover and continue cooking on low 1 hour. Stir with a whisk, if desired, to increase smoothness.", "5.\tSpoon the mixture into sterile containers, cover and refrigerate or freeze."],
+    "recipieimage": "https://image.ibb.co/jGOZHG/applebutter.jpg",
+    "searchtype": "apple,butter",
+    "typefood" : "breakfast",
+    "agegroup" : "kids"
+  },
+  {
+    "id":"c5575a16-922f-4650-bc48-81b98350b726",
+    "name": "Banana Fruit Smoothie",
+    "ingredients": [
+      "1 cup pineapple juice",
+      "3 bananas, sliced",
+      "1 tablespoon honey",
+      "2 cups ice"
+    ],
+    "directions": ["1.\tIn a blender, combine pineapple juice, bananas, honey and ice. Blend until smooth. Pour into glasses and serve."],
+    "recipieimage": "https://image.ibb.co/gociBb/Banana_Fruit_Smoothie.jpg",
+    "searchtype": "banana,honey",
+    "typefood" : "snacks",
+    "agegroup" : "old"
+  },
+  {
+    "id":"af1bd2f6-b648-40b5-9c45-969a2c993be4",
+    "name": "Banana Oats Cookies",
+    "ingredients": [
+      "3 ripe bananas",
+      "2 cups rolled oats",
+      "1 cup dates, pitted and chopped",
+      "1/3 cup vegetable oil",
+      "1 teaspoon vanilla extract"
+    ],
+    "directions":
+    ["1.\tPreheat oven to 350 degrees F (175 degrees C).",
+      "2.\tIn a large bowl, mash the bananas. Stir in oats, dates, oil, and vanilla. Mix well, and allow to sit for 15 minutes. Drop by teaspoonfuls onto an ungreased cookie sheet.",
+      "3.\tBake for 20 minutes in the preheated oven, or until lightly brown."],
+    "recipieimage": "https://image.ibb.co/dPyjHG/bananaoatscookie.jpg",
+    "searchtype": "banana,dates,vanilla,oats",
+    "typefood" : "snacks",
+    "agegroup" : "old"
+  },
+  {
+    "id":"c2a735e1-65a1-49d2-87b1-97c8fff6bbcb",
+    "name": "Chicken Tawa",
+    "ingredients": [
+      "Chicken - 500 gms",
+      "Onions - 2(finely chopped)",
+      "Tomato - 1 1/2 (chopped/pureed)",
+      "Ginger paste - 1 tbsp",
+      "Garlic paste - 1 tbsp",
+      "Turmeric - ½ tsp",
+      "Chilli powder - 2 tsp.",
+      "Garam masala powder - 1 tsp",
+      "Methi dana (fenugreek seeds) - 1 tsp",
+      "Cream - ½ cup",
+      "Capsicum - (cubed)",
+      "Onion -1 (cubed)",
+      "Red chillies -2 whole",
+      "Lemon juice - 1 tsp",
+      "Coriander leaves - for garnish",
+      "Salt - to taste"
+    ],
+    "directions": [
+      "1.\tTake some oil on a tawa/pan. Add methi dana (fenugreek seeds) and fry well.",
+      "2.\t Add chopped onion and sauté it.",
+      "3.\t Add the tomatoes, ginger- garlic paste, turmeric, chilli powder, garam masala powder and sauté.",
+      "4.\t Then add chicken, cream, lemon juice and let the chicken cook.",
+      "5.\t After chicken is cooked, add capsicum and/or onion cubes, chopped coriander leaves and whole red chillies. Cook for only 2 minutes.",
+      "6.\t Chicken tawa is ready to be served."],
+    "recipieimage": "https://image.ibb.co/ceKc4w/chickentawa.jpg",
+    "searchtype": "chicken,onions,tomato",
+    "typefood" : "lunch",
+    "agegroup" : "adults"
+  }
+]

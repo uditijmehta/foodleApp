@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "545504739233",
+    "firebase_url": "https://fir-crashreportingdemo-1177d.firebaseio.com",
+    "project_id": "fir-crashreportingdemo-1177d",
+    "storage_bucket": "fir-crashreportingdemo-1177d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545504739233:android:647fa38537f2b6f6",
+        "android_client_info": {
+          "package_name": "com.foodle.foodle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545504739233-7aih0nhm07kckscpggmjcmea0s00le7q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.foodle.foodle",
+            "certificate_hash": "a809e31934000bbbaedcbaf7d1ab22e8ca746979"
+          }
+        },
+        {
+          "client_id": "545504739233-spli7p8jj8t876j6ni98puavssd78bas.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc4R5tHyLk-qMfbNlv8Wc9vlg3PurvBvk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545504739233-spli7p8jj8t876j6ni98puavssd78bas.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
